@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-    <title>Web1 - JavaScript</title>
+    <title>Web1 - Welcome</title>
     <meta charset="utf-8">
 </head>
 
@@ -15,8 +15,8 @@
     <ul>
         <li>1.Other</li>
         <li>2.Things</li>
-    </ui>
-    <h2>JavaScript이란 무엇인가?</h2>
+    </ul>
+    <h2>Java Script란 무엇인가?</h2>
     <a href="https://www.w3.org/TR/2011/WD-html5-20110405/" target="_blank" title="html5 speicification">Hypertext Markup Language (HTML)</a> is the standard markup Language for <strong>creating <u>web</u> pages</strong> and web applications.
     Web browsers receive HTML documents from a web server of from local storage and render them into multimedia web pagers.
     HTML describes the structure of a web page semantically and origianlly included cues for the appearance of the document.

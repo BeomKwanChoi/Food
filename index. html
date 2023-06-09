@@ -15,7 +15,7 @@
     <ul>
         <li>1.Other</li>
         <li>2.Things</li>
-    </ui>
+    </ul>
     <h2>WEB</h2>
     <a href="https://www.w3.org/TR/2011/WD-html5-20110405/" target="_blank" title="html5 speicification">Hypertext Markup Language (HTML)</a> is the standard markup Language for <strong>creating <u>web</u> pages</strong> and web applications.
     Web browsers receive HTML documents from a web server of from local storage and render them into multimedia web pagers.
