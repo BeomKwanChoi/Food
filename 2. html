@@ -1,4 +1,4 @@
-﻿<!doctype html>
+﻿<!DOCTYPE HTML>
 <html>
 <head>
     <title>Web1 - Welcome</title>
@@ -22,7 +22,7 @@
     HTML describes the structure of a web page semantically and origianlly included cues for the appearance of the document.
     <img src="bmw3.jpeg" width="100%">
     HTML elements are the building blocks pf HTML pages.<p> With HTML constructs, images and other objects, such as interactive forms,
-    may be embedded into the rendered page.</p> <p "style=magin-top:45px;">It provides a means to create structured documents by denoting structural semantics for
+    may be embedded into the rendered page.</p> <p style="magin-top:45px;">It provides a means to create structured documents by denoting structural semantics for
     text such as headings, paragraphs, list, links, quotes and other items.</p> HTML elements are delineated by tags, written using angle brackets.
     <table>
      <tr>
